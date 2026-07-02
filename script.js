@@ -1,3 +1,3 @@
-window.onload = function () {
-    console.log("Welcome to Mamta Acrylic Store");
+window.onload = () => {
+console.log("Mamta Acrylic Store Loaded");
 }
